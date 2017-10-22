@@ -1,0 +1,19 @@
+.profile-pic {
+	max-width: 100%;
+}
+
+a:hover {
+	text-decoration: none;
+}
+.first-progress{
+	background-color: #41c1f4;
+	color:black;
+}
+
+.my-navbar {
+	background: linear-gradient(to right,#b7e3ff , #cbc4ff);
+}
+.my-link {
+	color:#87857a;
+	font-family: 'Lora', serif;	
+}
